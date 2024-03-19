@@ -4,6 +4,7 @@ This is the Agenda for Mobile Object Network Management (MONM) Side Meeting in I
 o IETF-119 MONM Side Meeting
 - When: 3pm-4:30pm on March 20, 2024 (Wednesday)
 - Where: M9 (Location: Mezzanine Level)
+- Zoom Meeting: https://us02web.zoom.us/j/87419619218?pwd=QUhxSlFaNnpuQ0ljRFFaR0VDUWFGZz09
 
 o Goal of MONM 
 - Mobile Objects (MOs) are popularly engaged in our lives, such as terrestrial vehicles (e.g., car, motorcycle, and scooter) and aerial vehicles (e.g., Unmanned Aerial Vehicle (UAV) and Urban Air Mobility (UAM)).
