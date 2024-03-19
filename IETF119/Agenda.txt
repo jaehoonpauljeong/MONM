@@ -1,1 +1,48 @@
 This is the Agenda for Mobile Object Network Management (MONM) Side Meeting in IETF 119.
+
+<Mobile Object Network Management (MONM) BoF>
+o IETF-119 MONM Side Meeting
+- When: 3pm-4:30pm on March 20, 2024 (Wednesday)
+- Where: M9 (Location: Mezzanine Level)
+
+o Goal of MONM 
+- Mobile Objects (MOs) are popularly engaged in our lives, such as terrestrial vehicles (e.g., car, motorcycle, and scooter) and aerial vehicles (e.g., Unmanned Aerial Vehicle (UAV) and Urban Air Mobility (UAM)).
+- The MONM group aims at specifying the problem statement on the network management of Mobile Objects (MOs)
+in terms of the configuration and monitoring of network services (e.g., network prefix configuration), security services (e.g., firewall, web filter, and DDoS attack mitigator), and application services (e.g., navigator and safe-driving assistant App).
+- This group will make a framework and interfaces for MOs with NETCONF and RESTCONF along with YANG data models. 
+- This group will specify the following items:
+. Mobile Object Network Management (MONM): Problem Statement and Use Cases
+. A Framework of Mobile Object Network Management (MONM)
+. YANG Data Models for the MONM Interfaces 
+
+o Agenda
+- Agenda Bash
+ . Chairs: Jaehoon (Paul) Jeong and Yiwen (Chris) Shen (SKKU)
+ . Time: 5 min
+ 
+- IETF-119 MONM Hackathon Project
+ . Presenter: Yoseop Ahn (SKKU)
+ . Time: 5 min
+ . Slides: https://github.com/IETF-Hackathon/ietf119-project-presentations/blob/main/IETF-119-MONM-Intent-Based-Network-Management-Project.pdf
+  
+- Open Source Projects for Intent-Based Management 
+ . Presenter: Yiwen (Chris) Shen (SKKU)
+ . Time: 15 min
+ 
+- An Intent-Based Management Framework for Software-Defined Vehicles in Intelligent Transportation Systems
+ . Presenter: Jaehoon (Paul) Jeong (SKKU)
+ . Time: 20 min
+ . Draft: https://datatracker.ietf.org/doc/html/draft-jeong-opsawg-intent-based-sdv-framework-00
+ 
+- Intent-Based Network Management Automation in 5G Networks
+ . Presenter: Jung-Soo Park (ETRI)
+ . Time: 15 min
+ . Draft: https://datatracker.ietf.org/doc/html/draft-jeong-nmrg-ibn-network-management-automation-03
+ 
+- MONM Charter
+ . Presenter: Jung-Soo Park (ETRI)
+ . Time: 10 min
+  
+- Discussion
+ . Time: 20 min
+ . Topic: Discussion on the Problem Statement, Use Cases, Framework, and Next Steps for MONM BoF
