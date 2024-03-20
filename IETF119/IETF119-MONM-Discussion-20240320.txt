@@ -1,0 +1,26 @@
+[03/20/2024] Discussion on MONM for IETF-120
+- Make a design team for the MONM (Mobile Object Network Management) Problem Statement 
+and Use Cases
+ . Mobile Objects: SDV (Software-Defined Vehicle), Vehicles, UAM (Urban Air Mobility), 
+ and UAV (Unmanned Aerial Vehicle) like drones.
+ . Goal: To address the necessity of a unified "Interface to Mobile Object Network Functions (I2MONF)",
+   such as Interfaces to Service Functions (e.g., network, security, and application services) 
+   in Mobile Objects.
+ . Those interfaces are modeled on the basis of YANG and NETCONF/RESTCONF. They may also be modeled 
+   on the basis of YAML and REST API.
+ 
+- [Jung-Soo Park] Definition of Mobile Objects
+ . Mobile Objects can contain Physical Objects like SDVs and Software Objects like containers
+   and in-network computing functions.
+
+- [Chris Shen] 
+  . Major part is how to design the interaction of in-vehicle networks and
+  the interfaction of in-vehicle network and edge network.
+  . The 3rd party need to access data in mobile objects' networks and considerations on security and privacy.
+  . Industrial frameworks can be utilized, such as CAMERA, TM Forum, and GSMA to extend the MONM Framework.
+  . We can consider more applications.
+  
+- [Paul Jeong]
+ . We need to use the i2nsf mailing list to discuss MONM BoF.
+ . Mailing List: i2nsf@ietf.org
+ 
