@@ -1,0 +1,19 @@
+00:43:42	Alper Kamil Demir:	No audio. Could you please help?
+00:53:34	Alper Kamil Demir:	is there a simulator or testbed environment so that I can use for academic research only? If so please, +90 536 676 28 98, or email: akdemir@atu.edu.tr
+00:57:43	Yiwen Shen (Chris):	Currently we are working on the standards for this work. Only open-source frameworks are used.
+00:58:53	Alper Kamil Demir:	Could you provide the URL of open-source frameworks that I can investigate?
+01:00:42	Yiwen Shen (Chris):	In the presentation slides, there are references for the work, including the open source frameworks.
+01:00:43	Yiwen Shen (Chris):	https://github.com/jaehoonpauljeong/MONM/blob/main/IETF119/Slides/Open%20Source%20Frameworks%20for%20IBN-based%20Management%20and%20Automation.pdf
+01:02:02	Paolo Volpato (Huawei):	Apologies, need to disconnect for another meeting. I will look at the slides
+01:02:47	Alper Kamil Demir:	Thank you Chris.
+01:02:58	Yiwen Shen (Chris):	Reacted to "Thank you Chris." with 👍
+01:05:41	Alper Kamil Demir:	I am recording to meeting. How can I Access it?
+01:05:42	Jaehoon Paul Jeong:	Hi Alper. I will share the meeting video clip later.
+01:06:02	Jaehoon Paul Jeong:	You don't need to record the meeting in your local computer.
+01:09:41	Alper Kamil Demir:	Thank you Jaehoon Paul Jeong. How can I get the recording later?
+01:10:41	Jaehoon Paul Jeong:	Alper, I will upload it into the MONM GitHub Repository for IETF-119:
+01:11:56	Jaehoon Paul Jeong:	https://github.com/jaehoonpauljeong/MONM/tree/main/IETF119
+01:11:56	Alper Kamil Demir:	What is the URL of MONM GitHub Repositoryu for IETF-119:?
+01:27:59	Jaehoon Paul Jeong:	https://datatracker.ietf.org/doc/html/draft-jeong-opsawg-intent-based-sdv-framework-00#name-normative-references
+01:28:52	Alper Kamil Demir:	Geat
+01:37:58	Jaehoon Paul Jeong:	https://www.ietf.org/mailman/listinfo/i2nsf
