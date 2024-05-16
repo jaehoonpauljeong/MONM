@@ -15,7 +15,7 @@ and Use Cases
 
 - [Chris Shen] 
   . Major part is how to design the interaction of in-vehicle networks and
-  the interfaction of in-vehicle network and edge network.
+  the interaction of in-vehicle network and edge network.
   . The 3rd party need to access data in mobile objects' networks and considerations on security and privacy.
   . Industrial frameworks can be utilized, such as CAMERA, TM Forum, and GSMA to extend the MONM Framework.
   . We can consider more applications.
